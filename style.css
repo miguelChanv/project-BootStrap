@@ -1,0 +1,11 @@
+.img-logo{
+    width: 15%;
+}
+.btn-hover{
+    background-color: green;
+    transition: all 1s;
+    border-color: greenyellow;
+}
+.fondo-footer{
+    background-color: #0e153a;
+}
